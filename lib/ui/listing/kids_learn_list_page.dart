@@ -200,7 +200,7 @@ class _KidsLearnListState extends State<_KidsLearnList>
                         alignment: Alignment.center,
                         transform: Matrix4.identity()
                           ..setEntry(3, 2, 0.005)
-                          ..scale(0.99, 0.92)
+                          ..scale(scrollListner.isScrolling ? 0.93 : 0.99, scrollListner.isScrolling ? 0.8 : 0.92)
                           ..rotateX(rotation),
                         child: _child,
                       );
