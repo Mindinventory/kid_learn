@@ -7,3 +7,6 @@ This project is UI/UX demo for Kids animation app. This demo includes a scroll a
 <a href="https://www.mindinventory.com/contact-us.php?utm_source=gthb&utm_medium=repo&utm_campaign=swift-ui-libraries">
 <img src="https://github.com/Sammindinventory/MindInventory/blob/main/hirebutton.png" width="203" height="43"  alt="app development"></a></p>
 <br>
+
+
+https://user-images.githubusercontent.com/85343307/146905469-9c8fd315-2930-454a-a014-ced8155d34a9.mov
