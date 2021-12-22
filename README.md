@@ -9,4 +9,4 @@ This project is UI/UX demo for Kids animation app. This demo includes a scroll a
 <br>
 
 
-https://user-images.githubusercontent.com/85343307/146905469-9c8fd315-2930-454a-a014-ced8155d34a9.mov
+https://user-images.githubusercontent.com/85343307/147050445-cfa71956-38e9-4d9c-bf3c-dc6094c92dcb.mov
